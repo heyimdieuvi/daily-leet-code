@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Array/BinarySearch/BinarySearch.iml" filepath="$PROJECT_DIR$/Array/BinarySearch/BinarySearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/DSA.iml" filepath="$PROJECT_DIR$/.idea/DSA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array/E_1.TwoSum/E_1.TwoSum.iml" filepath="$PROJECT_DIR$/Array/E_1.TwoSum/E_1.TwoSum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array/JavaArray/JavaArray.iml" filepath="$PROJECT_DIR$/Array/JavaArray/JavaArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Number/Number.iml" filepath="$PROJECT_DIR$/Number/Number.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RomanToInt/RomanToInt.iml" filepath="$PROJECT_DIR$/RomanToInt/RomanToInt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String/String.iml" filepath="$PROJECT_DIR$/String/String.iml" />
+    </modules>
+  </component>
+</project>

@@ -140,8 +140,11 @@ public class Main {
         //System.out.println(convertToTitle(1));
         //System.out.println("Ugly: " + isUgly(33));
        // System.out.println(14 % 2);
-        int[] nums = {0,1,2,2,3,0,4,2};
-        System.out.println("Ans: " + removeElement(nums, 2));
+        //int[] nums = {0,1,2,2,3,0,4,2};
+        //System.out.println("Ans: " + removeElement(nums, 2));
+        IntegerToRoman sol = new IntegerToRoman();
+        sol.length(3445);
+        System.out.println(sol.intToRoman(3445));
     }
     public static int titleToNumber(String x) {
         int ans = 0;
