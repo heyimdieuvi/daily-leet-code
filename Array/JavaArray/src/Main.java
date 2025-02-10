@@ -5,7 +5,9 @@ public class Main {
         int[] nums1 = {1,2,3,0,0,0};
         int[] nums2 = {3,2,4};
 //        merge(nums1, 3, nums2, 3);
-        System.out.println(Arrays.toString(twoSum(nums2, 6)));
+        //System.out.println(Arrays.toString(twoSum(nums2, 6)));
+        WeirdAlgorithm sol = new WeirdAlgorithm();
+        //sol.Solution( 8374236);
     }
     public static void merge(int[] nums1, int m, int[] nums2, int n) {
         int i = m - 1;

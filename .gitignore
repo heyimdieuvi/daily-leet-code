@@ -1,0 +1,26 @@
+# Ignore IDE-specific folders and files
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Ignore output and build directories
+out/
+bin/
+build/
+target/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+
+# Ignore all .class files
+*.class
+
+# Miscellaneous
+*.xml  # Optional: if you want to exclude IDE-generated XML files like misc.xml
